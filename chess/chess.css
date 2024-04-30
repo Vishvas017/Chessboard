@@ -1,0 +1,31 @@
+.box
+{
+    height:80px;
+    width:80px;
+    background-color:grey;
+    border:1px solid black;
+    display:inline-block;
+    margin:-2px;
+    font-size:60px;
+    text-align:center;
+}
+.b
+{
+    height:80px;
+    width:80px;
+    background-color:black;
+    border:1px solid black;
+    display:inline-block;
+    margin:-2px;
+    font-size:60px;
+    text-align:center;
+	color:white;
+}
+.chess
+{
+    position:absolute;
+    transform:translate(-50%,-50%);
+    right:10%;
+    top:50%;
+
+}
